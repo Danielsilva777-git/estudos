@@ -1,0 +1,1 @@
+Escrevir essas palavras no terminal do git bash
