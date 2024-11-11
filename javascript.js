@@ -1,3 +1,5 @@
-const dia =  new Date()
-const hoje = dia.getDay()
-console.log(dia)
+
+window.addEventListener("online", (event)=> {
+     console.log("Conectado")
+    
+})
