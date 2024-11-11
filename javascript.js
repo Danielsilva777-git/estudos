@@ -1,5 +1,14 @@
+window.addEventListener("offline", ()=>{alert(
+    "voce está desconectado"
+)
 
-window.addEventListener("online", (event)=> {
-     console.log("Conectado")
-    
 })
+
+
+window.addEventListener("online", ()=>{alert(
+    "voce está conectado"
+)
+
+})
+
+
