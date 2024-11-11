@@ -1,3 +1,3 @@
 const dia =  new Date()
-const hoje = dia.getDay()
+const hoje = dia.setDate()
 console.log(dia)
