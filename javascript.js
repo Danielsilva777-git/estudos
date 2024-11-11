@@ -1,3 +1,14 @@
-const dia =  new Date()
-const hoje = dia.getDay()
-console.log(dia)
+window.addEventListener("offline", ()=>{alert(
+    "voce está desconectado"
+)
+
+})
+
+
+window.addEventListener("online", ()=>{alert(
+    "voce está conectado"
+)
+
+})
+
+
